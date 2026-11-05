@@ -1,0 +1,27 @@
+{
+  "chosen_alpha": {
+    "XGB original": 0.1,
+    "XGB SMOTE": 0.1
+  },
+  "top_features": [
+    "cf_000",
+    "co_000",
+    "ad_000",
+    "cs_009",
+    "dh_000",
+    "dj_000",
+    "ag_000",
+    "as_000",
+    "ay_009",
+    "ak_000",
+    "az_009",
+    "ch_000",
+    "au_000"
+  ],
+  "train_rows": 60000,
+  "test_rows": 16000,
+  "smote_full_class_counts": [
+    59000,
+    59000
+  ]
+}
